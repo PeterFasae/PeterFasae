@@ -1,28 +1,37 @@
-## Peter Fasae
+# Peter Fasae
 
-Software engineer in London, working mostly on the backend — APIs, data and tests.
+**Software Engineering · Technical Solutions · Implementation**  
+London, United Kingdom
 
-I'm currently building **Clarity**, a note-taking system for people with ADHD. Most of the
-engineering went into one question that isn't really about notes: *when is a note allowed to
-leave the system?* A note only reaches a third-party AI service once someone has explicitly
-turned that on, and there's a test that fails if a single request escapes while it's off — it
-watches the network rather than inspecting the code, so it catches paths I didn't think of.
+I build, troubleshoot and improve technology that people and businesses rely on. My work spans commercial software engineering, integrations, application support and operational delivery. I care about reliable systems, clear communication and understanding the problem before choosing a solution.
 
-121 tests. Serverless on AWS: Lambda, API Gateway, DynamoDB and Cognito. Not deployed yet.
+### What I've worked on
 
-**[Read the case study →](https://peterfasae.github.io/clarity.html)**
+- **Software delivery:** Built and maintained applications using React, TypeScript, Node.js and PostgreSQL at Acumen Digital.
+- **Integrations and reliability:** Investigated an Apple Pay checkout failure following an SDK change at BlueBow Group, and contributed to backend performance improvements.
+- **Technical support and onboarding:** Supported users and devices at T21 Services using Microsoft 365, SharePoint, Intune, Jamf and PowerShell; improved repeatable support processes and documentation.
+- **Team delivery:** Led operational shifts involving 20+ colleagues, balancing priorities and maintaining service standards.
 
-### Why there isn't much here
+### Selected work
 
-Most of what I've built isn't public. Clarity is private while it's unfinished, and my
-commercial work belongs to the companies I did it for. The write-ups on my site are the
-evidence in the meantime, and if you'd like to look at real code I'm happy to walk you
-through it.
+| Project | What it demonstrates |
+| --- | --- |
+| **[Clarity](https://github.com/PeterFasae/clarity)** | Privacy-conscious note-taking software, AWS serverless architecture, testable trust boundaries and documented trade-offs. **In development; not deployed.** [Engineering case study](https://peterfasae.github.io/clarity.html). |
+| **[Dashboard Performance Rewrite](https://github.com/PeterFasae/dashboard-performance-rewrite)** | Runnable before/after reconstruction showing request deduplication, caching and removal of data-fetching waterfalls. A demonstration of an engineering pattern, **not company source code**. |
+| **[More case studies](https://peterfasae.github.io/)** | How I approach technical incidents, integration problems, implementation choices and results. |
 
-### Elsewhere
+### Technologies and capabilities
 
-- **Portfolio** — [peterfasae.github.io](https://peterfasae.github.io/)
-- **LinkedIn** — [peter-fasae](https://www.linkedin.com/in/peter-fasae-5a7482b8/)
-- **Email** — pfasae@gmail.com
+**Engineering:** TypeScript, JavaScript, React, Node.js, Python, Django, PostgreSQL, AWS, testing and CI/CD.  
+**Technical delivery:** API integration, debugging, application support, Microsoft 365, Intune, Jamf, SharePoint and PowerShell.  
+**Collaboration:** Requirements clarification, documentation, handovers and cross-functional problem-solving.
 
-<sub>Open to backend and full-stack roles in London, or remote.</sub>
+### Connect
+
+- 🌐 **Portfolio:** [peterfasae.github.io](https://peterfasae.github.io/)
+- 💼 **LinkedIn:** [Peter Fasae](https://www.linkedin.com/in/peter-fasae-5a7482b8/)
+- ✉️ **Email:** [pfasae@gmail.com](mailto:pfasae@gmail.com)
+
+I'm interested in software engineering and technical solution-delivery opportunities, including implementation and application support, in London or suitable remote roles.
+
+<sub>Project descriptions distinguish working implementations from prototypes and reconstructions. Commercial code remains with its owners.</sub>
