@@ -8,7 +8,7 @@ I build, troubleshoot and improve technology that people and businesses rely on.
 ### What I've worked on
 
 - **Software delivery:** Built and maintained applications using React, TypeScript, Node.js and PostgreSQL at Acumen Digital.
-- **Integrations and reliability:** Investigated an Apple Pay checkout failure following an SDK change at BlueBow Group.
+- **Integrations and debugging:** As a voluntary Software Developer Intern at Blue Bow Research and Consultancy (BlueBow Group), worked across the front end and back end with React, TypeScript, Python, Django, Celery and PostgreSQL, and investigated an Apple Pay checkout failure following a payment SDK change.
 - **Technical support and onboarding:** Supported users and devices at T21 Services using Microsoft 365, SharePoint, Intune, Jamf and PowerShell; improved repeatable support processes and documentation.
 - **Team delivery:** Led operational shifts involving 20+ colleagues, balancing priorities and maintaining service standards.
 
@@ -22,7 +22,7 @@ I build, troubleshoot and improve technology that people and businesses rely on.
 
 ### Technologies and capabilities
 
-**Engineering:** TypeScript, JavaScript, React, Node.js, Python, Django, PostgreSQL, AWS, testing and CI/CD.  
+**Engineering:** TypeScript, JavaScript, React, Node.js, Python, Django, Celery, PostgreSQL, AWS, testing and CI/CD.  
 **Technical delivery:** API integration, debugging, application support, Microsoft 365, Intune, Jamf, SharePoint and PowerShell.  
 **Collaboration:** Requirements clarification, documentation, handovers and cross-functional problem-solving.
 
