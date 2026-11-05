@@ -8,7 +8,7 @@ I build, troubleshoot and improve technology that people and businesses rely on.
 ### What I've worked on
 
 - **Software delivery:** Built and maintained applications using React, TypeScript, Node.js and PostgreSQL at Acumen Digital.
-- **Integrations and reliability:** Investigated an Apple Pay checkout failure following an SDK change at BlueBow Group, and contributed to backend performance improvements.
+- **Integrations and reliability:** Investigated an Apple Pay checkout failure following an SDK change at BlueBow Group.
 - **Technical support and onboarding:** Supported users and devices at T21 Services using Microsoft 365, SharePoint, Intune, Jamf and PowerShell; improved repeatable support processes and documentation.
 - **Team delivery:** Led operational shifts involving 20+ colleagues, balancing priorities and maintaining service standards.
 
