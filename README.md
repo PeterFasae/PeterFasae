@@ -9,7 +9,7 @@ I build, troubleshoot and improve technology that people and businesses rely on.
 
 - **Software delivery:** Built and maintained applications using React, TypeScript, Node.js and PostgreSQL at Acumen Digital.
 - **Integrations and debugging:** As a voluntary Software Developer Intern at Blue Bow Research and Consultancy (BlueBow Group), worked across the front end and back end with React, TypeScript, Python, Django, Celery and PostgreSQL, and investigated an Apple Pay checkout failure following a payment SDK change.
-- **Technical support and onboarding:** Supported users and devices at T21 Services using Microsoft 365, SharePoint, Intune, Jamf and PowerShell; improved repeatable support processes and documentation.
+- **Technical support and onboarding:** Supported users and devices at T21 Services using Microsoft 365, SharePoint and PowerShell, with device management across Intune, Jamf and Apple Business Manager; improved repeatable support processes and documentation.
 - **Team delivery:** Led operational shifts involving 20+ colleagues, balancing priorities and maintaining service standards.
 
 ### Selected work
@@ -17,13 +17,13 @@ I build, troubleshoot and improve technology that people and businesses rely on.
 | Project | What it demonstrates |
 | --- | --- |
 | **[Clarity](https://github.com/PeterFasae/clarity)** | Privacy-conscious note-taking software, AWS serverless architecture, testable trust boundaries and documented trade-offs. **In development; not deployed.** [Engineering case study](https://peterfasae.github.io/clarity.html). |
-| **[Dashboard Performance Rewrite](https://github.com/PeterFasae/dashboard-performance-rewrite)** | Runnable before/after reconstruction showing request deduplication, caching and removal of data-fetching waterfalls. A demonstration of an engineering pattern, **not company source code**. |
-| **[More case studies](https://peterfasae.github.io/)** | How I approach technical incidents, integration problems, implementation choices and results. |
+| **[Dashboard Performance Rewrite](https://github.com/PeterFasae/dashboard-performance-rewrite)** | Runnable, standalone reconstruction with simulated endpoints, latency and data, showing request deduplication, caching and the removal of a data-fetching waterfall. The request counts are checked by tests. A demonstration of an engineering pattern, **not company source code**. |
+| **[Portfolio](https://peterfasae.github.io/)** | The Clarity engineering case study, short write-ups of professional work (an Apple Pay checkout investigation, integrations, client builds and application support), and how the evidence maps to engineering, solutions, implementation and support roles. |
 
 ### Technologies and capabilities
 
 **Engineering:** TypeScript, JavaScript, React, Node.js, Python, Django, Celery, PostgreSQL, AWS, testing and CI/CD.  
-**Technical delivery:** API integration, debugging, application support, Microsoft 365, Intune, Jamf, SharePoint and PowerShell.  
+**Technical delivery:** API integration, debugging, application support, Microsoft 365, SharePoint, PowerShell, Intune, Jamf and Apple Business Manager.  
 **Collaboration:** Requirements clarification, documentation, handovers and cross-functional problem-solving.
 
 ### Connect
